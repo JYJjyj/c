@@ -10,6 +10,7 @@
 #include<stdio.h>
 #include<stddef.h>
 #include<assert.h>
+
 void Two_Stack_Become_A_Queue()
 {
   SeqStack s1;
